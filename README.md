@@ -88,4 +88,4 @@ MemoriaGame é um projeto de código aberto para jogar o jogo memória em github
 
 | 🌐 | Join  👋  | Twitter | Instagram |
 | -- | -- | -- | -- |
-| [memoriagame.github.io](https://memoriagame.github.io) | [nextexperience.so/join](https://nextexperience.so/join) |[@nextexperience_team](http://twitter.com/nextexperience_team) | [@nextexperience_team](http://instagram.com/nextexperience_team/) |
+| [memoriagame.github.io](https://memoriagame.github.io) | [memoriagame.so/join](https://memoriagame.github.io/join) |[@nextexperience_team](http://twitter.com/memoriagame_team) | [@memoriagame_team](http://instagram.com/nextexperience_team/) |
