@@ -1,5 +1,5 @@
 <h2 align="center">
- versão web do jogo MemoriaGame 
+ MemoriaGame 
 </h2>
 
 <h2 align="center">
