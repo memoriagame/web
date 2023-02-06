@@ -1,5 +1,3 @@
-<img src="https://cdn-icons-png.flaticon.com/512/3813/3813720.png" alt="logo" id="3813720" class="flaticon" width="100px"/>
-
 <h2 align="center">
  versão web do jogo MemoriaGame 
 </h2>
@@ -82,3 +80,6 @@ ________________________________________________________________________________
 <a align="center" href="https://github.com/GeorgiaPereira039/MemoriaGame/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=GeorgiaPereira039/MemoriaGame" />
 </a>
+
+## Sobre
+<img src="https://cdn-icons-png.flaticon.com/512/3813/3813720.png" alt="logo" id="3813720" class="flaticon" width="100px"/>
