@@ -7,9 +7,11 @@
   --cenario1: url('./cenario1.jpg');
 }
 
-* {
+body {
     background-image: var(--cenario); /* background-image: url('./cenario.png'); */
 }
+
+ /*  <*> <{< background-image: var(--cenario); background-image: url('./cenario.png'); >}< */
 
 main {
     display:flex;
