@@ -115,10 +115,10 @@ const selectTypeCardNow = (selectObject) => {
   }
   if (selectObject.value === '5') {
       const arraynew = [""];
-      removeCSSVar('--cardImageBack1')
-      removeCSSVar('--cardImageBack2')
-      removeCSSVar('--cenario')
-      mudar_background_color("back", "blue");
+      //removeCSSVar('--cardImageBack1')
+      //removeCSSVar('--cardImageBack2')
+      //removeCSSVar('--cenario')
+      //mudar_background_color("back", "blue");
       return arraynew[0];
   }  
 }
@@ -130,7 +130,7 @@ const createCarta = (personagens, selectTypeCard) => {
   front.src = `./css/image/${personagens}.png`; 
   carta.appendChild(front); 
   back.src = selectTypeCardNow(selectTypeCard); 
-  reset_if_image_is_null('back')
+  //reset_if_image_is_null('back')
   carta.appendChild(back);
   carta.addEventListener('click', reveleCarta);
   carta.setAttribute('data-personagens', personagens);
