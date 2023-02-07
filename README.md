@@ -80,12 +80,3 @@ ________________________________________________________________________________
 <a align="center" href="https://github.com/GeorgiaPereira039/MemoriaGame/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=GeorgiaPereira039/MemoriaGame" />
 </a>
-
-## Sobre a Organização e o jogo MemoriaGame
-<img src="https://cdn-icons-png.flaticon.com/512/3813/3813720.png" alt="logo" id="3813720" class="flaticon" align="left" width="120" height="120" hspace="50"/>
-
-MemoriaGame é um projeto de código aberto para jogar o jogo memória em github-pages. A Organização MemoriaGame tem como objetivo incluir mais fases no jogo ou mais recursos de desenvolvimento para que o jogo seja jogado por maior número de pessoas. A licença da Organização e de todos projetos é uma versão personalizada da licença de Código Aberto MIT. 
-
-| 🌐 | Join  👋  | Twitter | Instagram |
-| -- | -- | -- | -- |
-| [memoriagame.github.io](https://memoriagame.github.io) | [memoriagame.so/join](https://memoriagame.github.io/join) |[@nextexperience_team](http://twitter.com/memoriagame_team) | [@memoriagame_team](http://instagram.com/nextexperience_team/) |
