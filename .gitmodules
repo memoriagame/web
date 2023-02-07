@@ -1,0 +1,6 @@
+[submodule "docs"]
+	path = docs/documentacao
+	url = git://github.com/GeorgiaPereira039/MemoriaGame.git
+[submodule "css"]
+	path = css/styles
+	url = git://github.com/GeorgiaPereira039/MemoriaGame.git
