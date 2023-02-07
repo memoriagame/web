@@ -1,6 +1,6 @@
 [submodule "docs"]
-	path = /docs
-	url = git://github.com/memoriagame/docs.git
-[submodule "css"]
-	path = mobile/
-	url = git://github.com/memoriagame/mobile.git
+ path = /docs
+ url = git://github.com/memoriagame/docs.git
+[submodule "mobile"]
+ path = mobile/
+ url = git://github.com/memoriagame/mobile.git
