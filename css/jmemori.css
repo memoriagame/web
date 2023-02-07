@@ -5,6 +5,7 @@
   --cardImageBack2: url('./back.png');
   --cenario: url('./cenario.png');
   --cenario1: url('./cenario1.jpg');
+  --cardImageBack3: url('./back.png') !important;
 }
 
 body {
@@ -79,9 +80,9 @@ h1 {
     transform: rotateY(180deg);
   }
   
-  /* <.back {> background-image: url('./back.png'); <}< */
+  /* <.back {> background-image: url('./back.png'); <}</*<-->cardImageBack2); !important;*/ */
   .back {
-    background-image: var(--cardImageBack2); !important;
+    background-image: var(--cardImageBack3);
     backface-visibility: hidden;
   }
   
