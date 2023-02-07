@@ -5,14 +5,11 @@
   --cardImageBack2: url('./back.png');
   --cenario: url('./cenario.png');
   --cenario1: url('./cenario1.jpg');
-  --cardImageBack3: url('./back.png') !important;
 }
 
-body {
+* {
     background-image: var(--cenario); /* background-image: url('./cenario.png'); */
 }
-
- /*  <*> <{< background-image: var(--cenario); background-image: url('./cenario.png'); >}< */
 
 main {
     display:flex;
@@ -80,11 +77,9 @@ h1 {
     transform: rotateY(180deg);
   }
   
-  /* <.back {> background-image: url('./back.png'); <}</*<-->cardImageBack2); !important;*/ */
   .back {
-    /* <background-image: var(--cardImageBack3);> */
-     background-image: red; 
-     backface-visibility: hidden;
+    background-image: var(--cardImageBack2); /* background-image: url('./back.png'); */
+    backface-visibility: hidden;
   }
   
   .revele-carta {
