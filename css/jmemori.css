@@ -83,7 +83,8 @@ h1 {
   /* <.back {> background-image: url('./back.png'); <}</*<-->cardImageBack2); !important;*/ */
   .back {
     /* <background-image: var(--cardImageBack3);> */
-    backface-visibility: hidden;
+     background-image: red; 
+     backface-visibility: hidden;
   }
   
   .revele-carta {
