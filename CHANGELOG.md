@@ -10,10 +10,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added 
 - Adicionado documentação técnica em docsify para o jogo
 - Adicionado áudio no jogo
-- api unsplash
-- prototipo de tela
-- read design
-- design ui/ux
+- adicionado api unsplash
+- adicionado prototipo de tela
+- adicionado read design
+- adicionado design ui/ux
+- adicionado Perfil da organização 
 - bug fixed, patchs etc
 - Adicionado colaboradores no github do projeto
 - Adicionado domínio personalizado para o jogo em github-pages
