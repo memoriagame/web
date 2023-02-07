@@ -79,8 +79,9 @@ h1 {
     transform: rotateY(180deg);
   }
   
+  /* <.back {> background-image: url('./back.png'); <}< */
   .back {
-    background-image: var(--cardImageBack2); /* background-image: url('./back.png'); */
+    background-image: var(--cardImageBack2); !important;
     backface-visibility: hidden;
   }
   
