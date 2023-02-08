@@ -21,6 +21,7 @@ Se uma figura não foi lembrada, adicione na discussão.
    - Canal com um número relevante de inscritos. Nosso critério é a partir de 100 inscritos até o máximo já registrado
    - De acordo com a reportagem de emissoras de rádio/tv ou mídia geral. Essa pessoa será incluída no jogo.
    - Páginas públicas no Wikipedia
+   - Guinness book
    - Curadoria: Qualquer pessoa com algum conhecimento pode fazer o processo de curadoria
    - Conhecidos, referenciados na área científica ou são de entretenimento/conhecimento/senso comum geral através de votação, dicas, pesquisa
    - Programadores cujo o projeto ajuda diversas empresas, pessoas, organizaões
