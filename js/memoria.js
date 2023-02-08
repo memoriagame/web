@@ -6,6 +6,22 @@ const getCSSVar = (name, element = document.documentElement) => {
     return window.getComputedStyle(element).getPropertyValue(`--${name}`);
 }
 
+const pontuar = `<div class="rating-stars">
+         <!--- <div> or <div class="rating-stars"> --->
+         <input type="radio" name="rating" id="rs0" checked><label for="rs0"></label>
+         <input type="radio" name="rating" id="rs1"><label for="rs1"></label>
+         <input type="radio" name="rating" id="rs2"><label for="rs2"></label>
+         <input type="radio" name="rating" id="rs3"><label for="rs3"></label>
+         <input type="radio" name="rating" id="rs4"><label for="rs4"></label>
+         <input type="radio" name="rating" id="rs5"><label for="rs5"></label>
+         <span class="rating-counter" id="pointValue"></span>
+      </div>`;
+
+const cronometro = `<p><span id="horas">00</span>:<span id="minutos">00</span>:<span id="segundos">00</span>:<span id="milissegundos">00</p>
+<button id="iniciar">Iniciar</button>
+<button id="pausar">Pausar</button>
+<button id="resetar">Resetar</button>`
+
 const setCSSVar = (name, value, element = document.documentElement) => {
     element.style.setProperty(`--${name}`, value);
 }
@@ -113,14 +129,22 @@ const selectTypeCardNow = (selectObject) => {
   if (selectObject.value === '4') {
      return imageArray[3];
   }
+  // jogar memoriagame com cartas frontais ou traseiras de cores variadas
   if (selectObject.value === '5') {
       const arraynew = [""];
-      //removeCSSVar('--cardImageBack1')
-      //removeCSSVar('--cardImageBack2')
-      //removeCSSVar('--cenario')
-      //mudar_background_color("back", "blue");
+      // removeCSSVar('--cardImageBack1') // removeCSSVar('--cardImageBack2') // removeCSSVar('--cenario') // mudar_background_color("back", "blue");
       return arraynew[0];
-  }  
+  }
+  // jogar memoriagame com pontuacao
+  if (selectObject.value === '6') {
+      document.getElementById("pontuar").innerHTML = pontuar;
+      return arraynew[0];
+  } 
+  // jogar memoriagame com cronometro
+  if (selectObject.value === '7') {
+      document.getElementById("cronometro").innerHTML = cronometro;
+      return arraynew[0];
+  } 
 }
 
 const createCarta = (personagens, selectTypeCard) => {
@@ -136,7 +160,6 @@ const createCarta = (personagens, selectTypeCard) => {
   carta.setAttribute('data-personagens', personagens);
   return carta;
 }
-
 
 const loadGame = (selectTypeCard) => {
   const duplicatepersonagens = [...personagens, ...personagens]
