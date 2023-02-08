@@ -101,7 +101,14 @@ const reveleCarta = ({target}) => {
 }
 
 // upload-card or local-card or random-card for back-card or //`url('./css/image/${personagens}.png')`
-const imageArray = ["https://images.unsplash.com/photo-1508185159346-bb1c5e93ebb4?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=55cf14db6ed80a0410e229368963e9d8&auto=format&fit=crop&w=1900&q=80", "./css/back.png", "./css/back1.jpg", "https://source.unsplash.com/collection/495468/1600x900"];
+const imageArray = [
+    "https://images.unsplash.com/photo-1508185159346-bb1c5e93ebb4?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=55cf14db6ed80a0410e229368963e9d8&auto=format&fit=crop&w=1900&q=80", 
+    "./css/back.png", 
+    "./css/back1.jpg", 
+    "https://source.unsplash.com/collection/495468/1600x900",
+    "https://hatscripts.github.io/circle-flags/flags/br.svg"
+];
+
 const randomNum = Math.floor(Math.random() * imageArray.length);
 
 // mudar o background_color do front/back
@@ -146,6 +153,10 @@ const selectTypeCardNow = (selectObject) => {
   if (selectObject.value === '7') {
       document.getElementById("cronometro").innerHTML = cronometro;
       return imageArray[0]; 
+  }
+  // jogar memoriagame com card frontal brasileiro
+  if (selectObject.value === '8') {
+      return imageArray[4]; 
   } 
 }
 
