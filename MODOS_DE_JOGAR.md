@@ -1,8 +1,8 @@
 ## Modos/formas/maneiras de jogar e/ou fases do jogo
-Para entender os modos/formas/maneiras de jogar e/ou fases do jogo é necessário entender alguns conceitos, pressupostos como: jogo da memória, Google Doodles, mnemônico, flashcards, mapas mentais, "estudos/técnicas de estudo, técnicas de estudo associativas".
+- Para entender os modos/formas/maneiras de jogar e/ou fases do jogo é necessário entender alguns conceitos, pressupostos como: jogo da memória, Google Doodles, mnemônico, flashcards, mapas mentais, "estudos/técnicas de estudo, técnicas de estudo associativas".
 
 #### O que é Google Doodles?
-Um doodle do Google é uma alteração especial e temporária do logotipo nas páginas iniciais do Google com o objetivo de comemorar feriados, eventos, conquistas e figuras históricas notáveis.
+- Um doodle do Google é uma alteração especial e temporária do logotipo nas páginas iniciais do Google com o objetivo de comemorar feriados, eventos, conquistas e figuras históricas notáveis.
 
 #### Qual é a relação do  Google Doodles com o jogo MemoriaGame?
 - No jogo MemoriaGame homenageamos figuras históricas importantes, relevantes, interessantes. Como Issac Newton, Linus Torvalds, Adam Smith, Keynes, Karl Marx, Malthus, David Ricardo, Socrátes, Platão, Hegel, Chico Science, Ariano Suassuna, etc. 
