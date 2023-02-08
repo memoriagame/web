@@ -5,20 +5,25 @@
 - Um doodle do Google é uma alteração especial e temporária do logotipo nas páginas iniciais do Google com o objetivo de comemorar feriados, eventos, conquistas e figuras históricas notáveis.
 
 #### Qual é a relação do  Google Doodles com o jogo MemoriaGame?
-- No jogo MemoriaGame homenageamos figuras históricas importantes, relevantes, interessantes. Como Issac Newton, Linus Torvalds, Adam Smith, Keynes, Karl Marx, Malthus, David Ricardo, Socrátes, Platão, Hegel, Chico Science, Ariano Suassuna, etc. 
-- Boa parte dessas figuras históricas que selecionados, tem haver com as reportagens da BBC entre outras emissoras, mídias. Ou tem haver com a referência acadêmica no Google Scholar ou quaisquer mecanismo de busca academica: Science, Nature etc. 
-- Ou possuem páginas públicas no Wikipedia ou são conhecidos, referenciados na área científica ou são de entretenimento/conhecimento/senso comum geral através de votação, dicas, pesquisa etc.
-- Se uma figura não foi lembrada, adicione na discussão.
-- Alguns figuras que adicionamos também são ganhadores de algum prêmio de destaque como Nobel etc. 
-- Ou fazem parte de alguma organização social ou fazem parte de algum canal com maior número relevante de visualização: 5 mil, 10 mil seguidores etc.
-- Se fossemos resumir os critérios gerais para selecionarmos uma figura pública ou não em nosso jogo é:
-   - quantidade de referência acadêmica. Selecionamos pessoas que possuem maior quantidade de referência acadêmica em revistas científicas relevantes como Science, Nature etc. Mas estamos abertos, caso haja alguma exceção, para posteriormente incluirmos. 
-   - votação. Uma ou mais pessoas podem votar em qual pessoa incluir no jogo, a pontuação de maior relevância é incluída.
-   - canal com um número relevante de inscritos. Nosso critério é a partir de 100 inscritos até o máximo já registrado
+No jogo MemoriaGame homenageamos figuras históricas importantes, relevantes, interessantes. Como Issac Newton, Linus Torvalds, Adam Smith, Keynes, Karl Marx, Malthus, David Ricardo, Socrátes, Platão, Hegel, Chico Science, Ariano Suassuna, etc. 
+
+Boa parte dessas figuras históricas que selecionados, tem haver com as reportagens da BBC entre outras emissoras, mídias. Ou tem haver com a referência acadêmica no Google Scholar ou quaisquer mecanismo de busca academica: Science, Nature etc. 
+
+Ou possuem páginas públicas no Wikipedia ou são conhecidos, referenciados na área científica ou são de entretenimento/conhecimento/senso comum geral através de votação, dicas, pesquisa etc.
+
+Se uma figura não foi lembrada, adicione na discussão.
+
+*Observações
+1. Alguns figuras que adicionamos também são ganhadores de algum prêmio de destaque como Nobel etc. Ou fazem parte de alguma organização social ou fazem parte de algum canal com maior número relevante de visualização: 100 inscritos até 10, 100, 1 milhão seguidores etc.
+2. Se fossemos resumir os critérios gerais para selecionarmos uma figura pública ou não em nosso jogo é:
+    - Quantidade de referência acadêmica. Selecionamos pessoas que possuem maior quantidade de referência acadêmica em revistas científicas relevantes como Science, Nature etc. Mas estamos abertos, caso haja alguma exceção, para posteriormente incluirmos. 
+   - Votação. Uma ou mais pessoas podem votar em qual pessoa incluir no jogo, a pontuação de maior relevância é incluída.
+   - Canal com um número relevante de inscritos. Nosso critério é a partir de 100 inscritos até o máximo já registrado
    - De acordo com a reportagem de emissoras de rádio/tv ou mídia geral. Essa pessoa será incluída no jogo.
-   - páginas públicas no Wikipedia
-   - curadoria: Qualquer pessoa com algum conhecimento pode fazer o processo de curadoria
-   - conhecidos, referenciados na área científica ou são de entretenimento/conhecimento/senso comum geral através de votação, dicas, pesquisa
+   - Páginas públicas no Wikipedia
+   - Curadoria: Qualquer pessoa com algum conhecimento pode fazer o processo de curadoria
+   - Conhecidos, referenciados na área científica ou são de entretenimento/conhecimento/senso comum geral através de votação, dicas, pesquisa
+   - Programadores cujo o projeto ajuda diversas empresas, pessoas, organizaões
 
 #### Qual o objetivo do jogo MemoriaGame?
 O objetivo do jogo é para diversão, lazer, entretenimento, estudo, aprendizagem e/ou bem-estar.
