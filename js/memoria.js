@@ -110,6 +110,7 @@ const mudar_background_color = (nameClass, colorValue) => {
     }
 }
 
+// modos de jogar memoriagame
 const selectTypeCardNow = (selectObject) => {
   if (selectObject.value === '') {
      return null;
