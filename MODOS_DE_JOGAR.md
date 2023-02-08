@@ -33,6 +33,7 @@
        - números primos
        - números naturais
        - números racionais
+       - número binário
     - artes visuais
        - obras de picasso
        - obras de saravaggio
