@@ -160,7 +160,7 @@ const selectTypeCardNow = (selectObject) => {
       return imageArray[4]; 
   } 
   // jogar memoriagame com card frontal chicoscience
-  if (selectObject.value === '8') {
+  if (selectObject.value === '9') {
       return imageArray[5]; 
   } 
 }
