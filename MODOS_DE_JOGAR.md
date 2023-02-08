@@ -14,19 +14,22 @@
        - Artes
 - Conhecimento gerais
     - história
-       - presidentes de determinados países
+       - jogo da memória relacionado à presidentes de determinados países
     - anime
-       - naruto
-       - pokemon
-       - one piece
-       - dragon ball z
-       - death note
+       - jogo da memória relacionado ao anime naruto
+       - jogo da memória relacionado ao anime pokemon
+       - jogo da memória relacionado ao anime one piece
+       - jogo da memória relacionado ao anime dragon ball z
+       - jogo da memória relacionado ao anime death note
+       - jogo da memória relacionado ao anime yu-yu-haksusho
     - desenho animado
        - picapau 
     - geografia
        - estados
        - regiões
-       - cidades
+       - cidades 
+    - cinema
+       -  jogo da memória relacionado à capas de filmes de terror
     - biologia
        - animais
     - matemática
@@ -38,54 +41,39 @@
        - obras de picasso
        - obras de saravaggio
     - letras
+    - ateísmo
+       - principais cientistas ateus
+    - religião
+       - budismo
+          - perguntas relacionadas ao budismo
+       - cristianismo
+          - perguntas relacionadas a diversas vertentes biblícas
     - ti
-       - linguagens de programação
-
+       -  jogo da memória relacionado à logos de linguagens de programação
+    - marketing
+       -  jogo da memória relacionado à logos de marcas famosas
+       
 #### Modos
-- modo personalizado
-- modo aleatório
-- modo padrão com card local 1
-- modo padrão com card local 2
-- modo aposta 1(o participante possui 32 tentativas para decorar todas as posições das 32 cartas. Ele não pode virar todas as 32 cartas, apenas 1 de cada vez)
-- modo aposta 2 (ele pode pedir para o computador tentar decorar ou virar algumas cartas, caso ele ganhe uma pontuação extra ou caso ele deseje apostar no jogo parte de sua pontuação conquistada)
-- modo misto - o participante pode escolher jogar em um ou mais modos em uma ou mais fases do jogo tanto em cartas frontais quanto em cartas traseiras
-- modo objetivo - o participante pode escolher a quantidade de cartas para jogar em uma ou mais fases do jogo
-- modo quebra cabeça - quando o participante decora a posição das cartas, no final o jogo mostra um quebra-cabeça feito
-- modo cores - o participante joga o jogo da memoria decorando a posição de cartas com cores
-- modo sudoku (tente decorar a posição de cartas que possuem números aleatórios, primos ou qualquer tipo de ordem numérica)
-- modo temporário (o participante tem até 2 minutos para decorar e ganhar todas as cartas)
-- modo url personalizada (o participante pode escolher fotos ou imagens onde a carta ficará posicionada para o próximo jogador ou para jogar de forma solitária)
-- modo evitar perda (o participante ganha o jogo na medida que não perde muita pontuação, há uma pontuação mínima e máxima a cada jogo)
-- modo ganhar ou perder (o particpante pode jogar o jogo na pontuação mínima ou máxima)
-- modo computador deixe o computador jogar o jogo da memória com você ou sozinho
-- modo história: jogue com informações históricas ou personagens políticos. ex: lula, bolsonaro, temer, dilma etc
-- modo geográfico: jogue o jogo da memória baseado na história ou informações geográficas do seu país, região, cidade, município etc
-- modo dama: o jogador terá que ver a posição das cartas com a imagem de peças de damas para vencer o desafio
-- modo xadrez: o jogador terá que ver a posição das cartas com a imagem das peças de xadrez para vencer o desafio
-- modo guerra naval: o jogador terá que ver a posição das cartas com imagem de navios para vencer o desafio
-- modo enforcado: o jogador terá que acertar parte de um quiz para tentar advinhar a posição das cartas para vencer o desafio, caso não acerte o quiz, a sua vez é passada para o próximo jogador. Vence quem tiver virado mais cartas ou menos cartas
+- Personalizado
+- Aleatório
+- Padrão com card local 1
+- Padrão com card local 2
+- Aposta 1(o participante possui 32 tentativas para decorar todas as posições das 32 cartas. Ele não pode virar todas as 32 cartas, apenas 1 de cada vez)
+- Aposta 2 (ele pode pedir para o computador tentar decorar ou virar algumas cartas, caso ele ganhe uma pontuação extra ou caso ele deseje apostar no jogo parte de sua pontuação conquistada)
+- Misto - o participante pode escolher jogar em um ou mais modos em uma ou mais fases do jogo tanto em cartas frontais quanto em cartas traseiras
+- Objetivo - o participante pode escolher a quantidade de cartas para jogar em uma ou mais fases do jogo
+- Quebra-cabeça - quando o participante decora a posição das cartas, no final o jogo mostra um quebra-cabeça feito
+- Cores - o participante joga o jogo da memoria decorando a posição de cartas com cores
+- Sudoku (tente decorar a posição de cartas que possuem números aleatórios, primos ou qualquer tipo de ordem numérica)
+- Temporário (o participante tem até 2 minutos para decorar e ganhar todas as cartas)
+- Url personalizada (o participante pode escolher fotos ou imagens onde a carta ficará posicionada para o próximo jogador ou para jogar de forma solitária)
+- Evitar perda (o participante ganha o jogo na medida que não perde muita pontuação, há uma pontuação mínima e máxima a cada jogo)
+- Ganhar ou perder (o particpante pode jogar o jogo na pontuação mínima ou máxima)
+- Cmputador deixe o computador jogar o jogo da memória com você ou sozinho
+- História: jogue com informações históricas ou personagens políticos. ex: lula, bolsonaro, temer, dilma etc
+- Geográfico: jogue o jogo da memória baseado na história ou informações geográficas do seu país, região, cidade, município etc
+- Dama: o jogador terá que ver a posição das cartas com a imagem de peças de damas para vencer o desafio
+- Xadrez: o jogador terá que ver a posição das cartas com a imagem das peças de xadrez para vencer o desafio
+- Guerra naval: o jogador terá que ver a posição das cartas com imagem de navios para vencer o desafio
+- Enforcado: o jogador terá que acertar parte de um quiz para tentar advinhar a posição das cartas para vencer o desafio, caso não acerte o quiz, a sua vez é passada para o próximo jogador. Vence quem tiver virado mais cartas ou menos cartas
 - modo dificil - parte das cartas frontais ou posteriores possuem um ou mais modos que o jogador ou um conjunto de jogadores escolhem, vence quem apostar na dica de um ou mais jogadores se sabem ou não a posição das cartas. o objetivo do jogo é a dedução lógica, probabilidade e também política, no sentido de parceria entre equipes de 4 a 8 jogadores - é semelhante a ideia do jogo war, em que você tem que conquistar países ao fazer alianças e parcerias
-
-
-
-
-
-    - modo padrão com card local 2
-    - modo aposta 1(o participante possui 32 tentativas para decorar todas as posições das 32 cartas. Ele não pode virar todas as 32 cartas, apenas 1 de cada vez)
-    - modo aposta 2 (ele pode pedir para o computador tentar decorar ou virar algumas cartas, caso ele ganhe uma pontuação extra ou caso ele deseje apostar no jogo parte de sua pontuação conquistada)
-    - modo misto - o participante pode escolher jogar em um ou mais modos em uma ou mais fases do jogo tanto em cartas frontais quanto em cartas traseiras
-    - modo objetivo - o participante pode escolher a quantidade de cartas para jogar em uma ou mais fases do jogo
-    - modo quebra cabeça - quando o participante decora a posição das cartas, no final o jogo mostra um quebra-cabeça feito
-    - modo cores - o participante joga o jogo da memoria decorando a posição de cartas com cores
-    - modo sudoku (tente decorar a posição de cartas que possuem números aleatórios, primos ou qualquer tipo de ordem numérica)
-    - modo temporário (o participante tem até 2 minutos para decorar e ganhar todas as cartas)
-    - modo url personalizada (o participante pode escolher fotos ou imagens onde a carta ficará posicionada para o próximo jogador ou para jogar de forma solitária)
-    - modo evitar perda (o participante ganha o jogo na medida que não perde muita pontuação, há uma pontuação mínima e máxima a cada jogo)
-    - modo ganhar ou perder (o particpante pode jogar o jogo na pontuação mínima ou máxima)
-    - modo computador deixe o computador jogar o jogo da memória com você ou sozinho
-    - modo história/geográfico: jogue o jogo da memória baseado na história ou informações geográficas do seu país, região, cidade, município etc
-    - modo dama: o jogador terá que ver a posição das cartas com a imagem de peças de damas para vencer o desafio
-    - modo xadrez: o jogador terá que ver a posição das cartas com a imagem das peças de xadrez para vencer o desafio
-    - modo guerra naval: o jogador terá que ver a posição das cartas com imagem de navios para vencer o desafio
-    - modo enforcado: o jogador terá que acertar parte de um quiz para tentar advinhar a posição das cartas para vencer o desafio, caso não acerte o quiz, a sua vez é passada para o próximo jogador. Vence quem tiver virado mais cartas ou menos cartas
-    - modo dificil - parte das cartas frontais ou posteriores possuem um ou mais modos que o jogador ou um conjunto de jogadores escolhem, vence quem apostar na dica de um ou mais jogadores se sabem ou não a posição das cartas. o objetivo do jogo é a dedução lógica, probabilidade e também política, no sentido de parceria entre equipes de 4 a 8 jogadores - é semelhante a ideia do jogo war, em que você tem que conquistar países ao fazer alianças e parcerias
