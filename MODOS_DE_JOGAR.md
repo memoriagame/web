@@ -1,3 +1,57 @@
+## Modos/formas/maneiras de jogar e/ou fases do jogo
+Para entender os modos/formas/maneiras de jogar e/ou fases do jogo é necessário entender alguns conceitos, pressupostos como: jogo da memória, Google Doodles.
+
+#### O que é Google Doodles?
+Um doodle do Google é uma alteração especial e temporária do logotipo nas páginas iniciais do Google com o objetivo de comemorar feriados, eventos, conquistas e figuras históricas notáveis.
+
+#### Qual o objetivo do jogo MemoriaGame?
+O objetivo do jogo é para diversão, lazer, entretenimento, estudo, aprendizagem e/ou bem-estar.
+
+#### Como o jogo MemoriaGame consegue atingir esse objetivo?
+- MemoriaGame é um jogo da memória. Jogos de memória são uma excelente oportunidade para melhorar habilidades cognitivas. Isso acontece porque você aprende a reconhecer objetos, pessoas, animais, etc; por meio da posição da carta. 
+- Além disso, com o reconhecimento de objetos, pessoas, animais etc; isso pode ajudar você a lembrar de coisas, pessoas - o que facilita no processo de memorização e de aprendizagem para uma ou mais pessoas. 
+- Há quem goste de jogos de xadrez, damas, desafio, quiz etc. Cada um desses jogos possui um público-alvo e regras próprias. Mas de forma geral, para atingir nosso objetivo incluímos uma série de recursos que achamos interessantes, únicos, exclusivos ou não para proporcionar uma melhor experiência de uso, lazer, diversão, entretenimento, aprendizagem, estudo, bem-estar. 
+- Boa parte desses recursos advém de outros jogos ou são conceitos e ideias prévias, ou são pressupostos iniciais, finais ou deduções lógicas. Assim como, pesquisas quantitativas e qualitativas que são abertas ao público-geral.
+- De forma geral, inicialmente jogos da memória são jogados com crianças ou são atividades para ajudar no processo de memorização para algumas pessoas idosas, ou da terceira idade, ou pessoas de mais idade.
+- De forma geral, algumas pessoas gostam de jogos de memória porque é um jogo simples - não muito estratégico. Coisas como xadrez, sudoku são ótimos jogos, mas exigem maior atenção e também maior contato(dedicação) com o jogo.  Algumas pessoas podem gostar mais de jogos de memória do que outras pessoas. Mas assim como foi falado inicial, cada jogo tem uma regra ou um conjunto de regras próprias, assim como seu público-alvo. Existem jogos mais ou menos difícies, esse nível de dificuldade geralmente é ou pode ser relacionado ao contato(dedicação) ao jogo bem como sua atenção.
+- O que é falado de forma geral aqui, é que não existem jogos bons ou ruins. 
+- O que é falado aqui: é que existem jogos que possuem mais ou menos nível de atenção, dedicação do que outros. Nesse sentido, as pessoas podem gostar de jogos de memória do que outros. Ou ainda, possuem maior facilidade com o jogo de memória do que outros.
+- Um objetivo de um jogo ao meu ver tem haver com seu público-alvo, assim como, sua regra ou conjunto de regras. Estando atento a sua regra ou conjunto de regras, assim como o público-alvo um jogo pode ser mais ou menos bom. Esse "mais ou menos bom" é relacionado ao nível de atenção ou dedicação que uma ou mais pessoas possuem no jogo. Por exemplo, jogos de xadrez volta e meia ficam mais ou menos populares com o tempo. Assim como, jogos do tipo quebra-cabeça, sudoku, jogos de memória etc.
+- A popularidade de um jogo não é a quantidade de pessoas que jogam, a popularidade ao meu ver tem haver como o jogo é feito e como as pessoas gostam dessa forma feita. É como uma receita de bolo ou torta, sempre haverá pessoas que gostam mais de torta do que bolo. O legal disso, não é a discussão do que é "melhor ou pior", ou do "mais ruim ao menos ruim". Ao meu ver, o legal é ver como ele foi feito, produzido. E se as pessoas interessam no jogo com aquilo que é proposto.
+- Nesse sentido, o memoriagame é um jogo interessante, legal, divertido - e uma das formas que pensamos inicialmente para atingir esse objetivo é tornar mais popular, acessível para todas as pessoas. Talvez com isso, possamos por outro lado - ajudar ou não estudos associativos como mnemônicos, flashcards, mapas mentais etc. Essses estudos servem para decorar coisas, e um jogo da memória pode facilitar isso.
+- Por outro lado, reconhecimento de padrões, lógica e dedução lógica também é relacionado a um jogo de memória. Nesse sentido, ter mais fases ou modos de jogar pode atingir esse objetivo.
+- Se por ventura, com o reconhecimento de objetos, pessoas, animais etc; isso ajudar você a lembrar de coisas, pessoas, ficamos felizes. 
+- E se isso ajudar em sua memória seja para seu bem-estar ou estudo geral ou até mesmo a pensar em criar associações, mnemônico, ficamos felizes.
+
+
+#### Qual o objetivo do jogo MemoriaGame?
+
+De forma geral, serve para seu lazer, entretenimento, estudo, aprendizagem e/ou bem-estar.
+
+De forma geral, serve para seu lazer, entretenimento, estudo, aprendizagem e/ou bem-estar.
+
+
+#### Qual o objetivo do jogo MemoriaGame?
+
+
+
+- Os jogos de memória são uma excelente oportunidade para melhorar habilidades cognitivas. Isso acontece porque você aprende a reconhecer objetos, pessoas, animais, etc; por meio da posição da carta. Além disso, com o reconhecimento de objetos, pessoas, animais etc; isso pode ajudar você a lembrar de coisas, pessoas. O que pode ajudar em sua memória seja para seu bem-estar ou estudo geral ou até mesmo a pensar em criar associações, mnemônico.
+
+
+#### Qual é a relação do  Google Doodles com o jogo MemoriaGame?
+
+
+O jogo memoriagame tem como objetivo facilitar
+-   
+-     estudo associativo.
+
+- Além disso, o jogo proporciona maior reconhecimento de padrões e estimulação visual. 
+- atrai a atenção das crianças, adultos, jovens, idosos.
+
+*Chico Science*
+![image](https://user-images.githubusercontent.com/123137817/217416125-b8fe5d45-3df1-4bfd-bf64-48e23bd2f4fb.png)
+
+
 ### temas
 - Conhecimento específico
     - Ciência
