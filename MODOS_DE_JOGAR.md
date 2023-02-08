@@ -70,9 +70,6 @@
 
 
 
-    - modo personalizado
-    - modo aleatório
-    - modo padrão com card local 1
     - modo padrão com card local 2
     - modo aposta 1(o participante possui 32 tentativas para decorar todas as posições das 32 cartas. Ele não pode virar todas as 32 cartas, apenas 1 de cada vez)
     - modo aposta 2 (ele pode pedir para o computador tentar decorar ou virar algumas cartas, caso ele ganhe uma pontuação extra ou caso ele deseje apostar no jogo parte de sua pontuação conquistada)
