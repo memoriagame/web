@@ -131,19 +131,18 @@ const selectTypeCardNow = (selectObject) => {
   }
   // jogar memoriagame com cartas frontais ou traseiras de cores variadas
   if (selectObject.value === '5') {
-      const arraynew = [""];
       // removeCSSVar('--cardImageBack1') // removeCSSVar('--cardImageBack2') // removeCSSVar('--cenario') // mudar_background_color("back", "blue");
-      return arraynew[0];
+      return imageArray[0]; 
   }
   // jogar memoriagame com pontuacao
   if (selectObject.value === '6') {
       document.getElementById("pontuar").innerHTML = pontuar;
-      return arraynew[0];
+      return imageArray[0]; 
   } 
   // jogar memoriagame com cronometro
   if (selectObject.value === '7') {
       document.getElementById("cronometro").innerHTML = cronometro;
-      return arraynew[0];
+      return imageArray[0]; 
   } 
 }
 
