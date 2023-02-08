@@ -15,8 +15,9 @@ Um doodle do Google é uma alteração especial e temporária do logotipo nas p�
    - quantidade de referência acadêmica. Selecionamos pessoas que possuem maior quantidade de referência acadêmica em revistas científicas relevantes como Science, Nature etc. Mas estamos abertos, caso haja alguma exceção, para posteriormente incluirmos. 
    - votação. Uma ou mais pessoas podem votar em qual pessoa incluir no jogo, a pontuação de maior relevância é incluída.
    - canal com um número relevante de inscritos. Nosso critério é a partir de 100 inscritos até o máximo já registrado
-   - De acordo com a reportagem da emissoras de rádio/tv ou mídia geral.
+   - De acordo com a reportagem de emissoras de rádio/tv ou mídia geral. Essa pessoa será incluída no jogo.
    - páginas públicas no Wikipedia
+   - curadoria: Qualquer pessoa com algum conhecimento pode fazer o processo de curadoria
    - conhecidos, referenciados na área científica ou são de entretenimento/conhecimento/senso comum geral através de votação, dicas, pesquisa
 
 #### Qual o objetivo do jogo MemoriaGame?
@@ -37,7 +38,6 @@ O objetivo do jogo é para diversão, lazer, entretenimento, estudo, aprendizage
 - Por outro lado, reconhecimento de padrões, lógica e dedução lógica também é relacionado a um jogo de memória. Nesse sentido, ter mais fases ou modos de jogar pode atingir esse objetivo.
 - Se por ventura, com o reconhecimento de objetos, pessoas, animais etc; isso ajudar você a lembrar de coisas, pessoas, ficamos felizes. 
 - E se isso ajudar em sua memória seja para seu bem-estar ou estudo geral ou até mesmo a pensar em criar associações, mnemônico, ficamos felizes.
-
 
 #### Qual o objetivo do jogo MemoriaGame?
 O objetivo do jogo é para diversão, lazer, entretenimento, estudo, aprendizagem e/ou bem-estar.  Além disso, o jogo proporciona maior reconhecimento de padrões e estimulação visual. 
