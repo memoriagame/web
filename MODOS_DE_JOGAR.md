@@ -1,8 +1,14 @@
 ## Modos/formas/maneiras de jogar e/ou fases do jogo
-Para entender os modos/formas/maneiras de jogar e/ou fases do jogo é necessário entender alguns conceitos, pressupostos como: jogo da memória, Google Doodles.
+Para entender os modos/formas/maneiras de jogar e/ou fases do jogo é necessário entender alguns conceitos, pressupostos como: jogo da memória, Google Doodles, mnemônico, flashcards, mapas mentais, "estudos/técnicas de estudo, técnicas de estudo associativas".
 
 #### O que é Google Doodles?
 Um doodle do Google é uma alteração especial e temporária do logotipo nas páginas iniciais do Google com o objetivo de comemorar feriados, eventos, conquistas e figuras históricas notáveis.
+
+#### Qual é a relação do  Google Doodles com o jogo MemoriaGame?
+- No jogo MemoriaGame homenageamos figuras históricas importantes, relevantes, interessantes. Como Issac Newton, Linus Torvalds, Adam Smith, Keynes, Karl Marx, Malthus, David Ricardo, Socrátes, Platão, Hegel, Chico Science, Ariano Suassuna, etc. 
+- Boa parte dessas figuras históricas que selecionados, tem haver com as reportagens da BBC entre outras emissoras, mídias. Ou tem haver com a referência acadêmica no Google Scholar ou quaisquer mecanismo de busca academica: Science, Nature etc. 
+- Ou possuem páginas públicas no Wikipedia ou são conhecidos, referenciados na área científica ou são de entretenimento/conhecimento/senso comum geral através de votação, dicas, pesquisa etc.
+- Se uma figura não foi lembrada, adicione na discussão.
 
 #### Qual o objetivo do jogo MemoriaGame?
 O objetivo do jogo é para diversão, lazer, entretenimento, estudo, aprendizagem e/ou bem-estar.
@@ -25,32 +31,13 @@ O objetivo do jogo é para diversão, lazer, entretenimento, estudo, aprendizage
 
 
 #### Qual o objetivo do jogo MemoriaGame?
+O objetivo do jogo é para diversão, lazer, entretenimento, estudo, aprendizagem e/ou bem-estar.  Além disso, o jogo proporciona maior reconhecimento de padrões e estimulação visual. 
 
-De forma geral, serve para seu lazer, entretenimento, estudo, aprendizagem e/ou bem-estar.
-
-De forma geral, serve para seu lazer, entretenimento, estudo, aprendizagem e/ou bem-estar.
-
-
-#### Qual o objetivo do jogo MemoriaGame?
-
-
-
-- Os jogos de memória são uma excelente oportunidade para melhorar habilidades cognitivas. Isso acontece porque você aprende a reconhecer objetos, pessoas, animais, etc; por meio da posição da carta. Além disso, com o reconhecimento de objetos, pessoas, animais etc; isso pode ajudar você a lembrar de coisas, pessoas. O que pode ajudar em sua memória seja para seu bem-estar ou estudo geral ou até mesmo a pensar em criar associações, mnemônico.
-
-
-#### Qual é a relação do  Google Doodles com o jogo MemoriaGame?
-
-
-O jogo memoriagame tem como objetivo facilitar
--   
--     estudo associativo.
-
-- Além disso, o jogo proporciona maior reconhecimento de padrões e estimulação visual. 
-- atrai a atenção das crianças, adultos, jovens, idosos.
+#### Qual o público-alvo do jogo MemoriaGame?
+É um jogo bastante inclusivo, didático. O jogo pode atrair a atenção das crianças, adultos, jovens, idosos. Ou melhor: geração X, Y, Z e Baby Boomers etc.
 
 *Chico Science*
 ![image](https://user-images.githubusercontent.com/123137817/217416125-b8fe5d45-3df1-4bfd-bf64-48e23bd2f4fb.png)
-
 
 ### temas
 - Conhecimento específico
