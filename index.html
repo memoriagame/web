@@ -19,16 +19,8 @@
       <img id="togepi" src="./css/togeppi.png" alt="togepi icon">
       <img id="eve" src="./css/eve.png" alt="eve icon">
       <img id="chikorita" src="./css/chikorita.png" alt="chikorita icon">
-      <div class="rating-stars">
-         <!--- <div> or <div class="rating-stars"> --->
-         <input type="radio" name="rating" id="rs0" checked><label for="rs0"></label>
-         <input type="radio" name="rating" id="rs1"><label for="rs1"></label>
-         <input type="radio" name="rating" id="rs2"><label for="rs2"></label>
-         <input type="radio" name="rating" id="rs3"><label for="rs3"></label>
-         <input type="radio" name="rating" id="rs4"><label for="rs4"></label>
-         <input type="radio" name="rating" id="rs5"><label for="rs5"></label>
-         <span class="rating-counter" id="pointValue"></span>
-      </div>
+      <div id="cronometro"></div>
+      <div id="pontuar"></div>
       <main>
          <div class="tabuleiro"></div>
          <button id="btnRestart" onclick="restart()">Jogar Novamente</button>
@@ -52,6 +44,8 @@
                         <option value="3">Jogar em modo padrão com card local 2</option>
                         <option value="4">Jogar em modo aleatório com card unsplash via api </option>
                         <option value="5">Jogar em modo com cor azul no card-front </option>
+                        <option value="6">Jogar com pontuação </option>
+                        <option value="7">Jogar com cronometro </option>
                      </select>
                   </div>
                   <div class="modal-footer" style="background: white;">
