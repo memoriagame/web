@@ -6,6 +6,8 @@ const getCSSVar = (name, element = document.documentElement) => {
     return window.getComputedStyle(element).getPropertyValue(`--${name}`);
 }
 
+// api paises logo https://hatscripts.github.io/circle-flags/flags/br.svg
+
 const pontuar = `<div class="rating-stars">
          <!--- <div> or <div class="rating-stars"> --->
          <input type="radio" name="rating" id="rs0" checked><label for="rs0"></label>
