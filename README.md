@@ -3,7 +3,7 @@
 </h2>
 
 <h2 align="center">
- <img src="assets/mockup/mockup1.png" id="188918" /> 
+ <img src="https://memoriagame.github.io/assets/assets/mockup/mockup1.png" id="188918" /> 
 </h2>
 
 <h3 align="left">
