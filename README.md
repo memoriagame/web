@@ -47,22 +47,13 @@ Para a versão mobile acesse o link: [versão mobile](https://georgiapereira039.
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 Fontes usadas:👇👇
-
-[Cartas](https://www.pokemon.com/br/pokedex/)
-
-[Ícones/IconScout](https://iconscout.com/)
-
-[Ícones/Flaticon](https://www.flaticon.com/br/icones-gratis/pokemon)
-
-[Fundo](https://br.pinterest.com/pin/734790495467469536/?mt=login)
-
-[W3 Schools](https://www.w3schools.com/default.asp)
-
-[Áudio](https://ringtones.mob.org.pt/mp3/pokemon_theme-20774/)
-
-[Fonte do Google](https://fonts.google.com/specimen/Press+Start+2P?query=press)   
-
-_____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+- [Cartas](https://www.pokemon.com/br/pokedex/)
+- [Ícones/IconScout](https://iconscout.com/)
+- [Ícones/Flaticon](https://www.flaticon.com/br/icones-gratis/pokemon)
+- [Fundo](https://br.pinterest.com/pin/734790495467469536/?mt=login)
+- [W3 Schools](https://www.w3schools.com/default.asp)
+- [Áudio](https://ringtones.mob.org.pt/mp3/pokemon_theme-20774/)
+- [Fonte do Google](https://fonts.google.com/specimen/Press+Start+2P?query=press)   
 
 ## Tipo de jogo
 É um jogo do tipo single-player, ou seja, você joga sozinho sem qualquer ajuda de ninguém. Não há dicas, você descobre jogando
