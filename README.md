@@ -58,6 +58,12 @@ Fontes usadas:👇👇
 ## Tipo de jogo
 É um jogo do tipo single-player, ou seja, você joga sozinho sem qualquer ajuda de ninguém. Não há dicas, você descobre jogando
 
+## Recursos
+- Ativar/desativar música
+- Ativar/desativar tempo regressivo para jogar o jogo memoriagame
+- Ativar/desativar sistema de ranking/pontuação
+- Ativar/desativar personalização de cartas frontais, traseiras
+
 ## Pontuação & Ranking
 - Se o participante do jogo conseguir memorizar as 32 cartas do jogo, esse participante vencerá o jogo
 - e nesse caso, a pontuação será de 32 pontos de cada jogo
