@@ -12,21 +12,31 @@ try{
 }
 catch (error){
   try{
-    require(['githubPages'], function(){
-      console.log('githubPages is loaded.')
-    });
+   console.error(error);
+   // Expected output: ReferenceError: nonExistentFunction is not defined
+   // (Note: the exact output may be browser-dependent)
+   require(['githubPages'], function(){
+     console.log('githubPages is loaded.')
+   });
   }
   catch (error){
+    console.error(error);
     try{
-      require(['githubusercontent'], function(){
-        console.log('githubusercontent is loaded.')
-      });
-    }
-    catch (error){
       // Expected output: ReferenceError: nonExistentFunction is not defined
       // (Note: the exact output may be browser-dependent)
-      console.error(error);
-      module = require('./js/main');
+      require(['githubusercontent'], function(){
+       console.log('githubusercontent is loaded.')
+      });
+     }
     }
+    catch (error){
+      console.error(error);
+      // Expected output: ReferenceError: nonExistentFunction is not defined
+      // (Note: the exact output may be browser-dependent)
+      module = require('./js/main');
+     }
+    }
+   }
   }
+ }
 }
