@@ -6,7 +6,7 @@
  <img src="https://memoriagame.github.io/assets/public/mockup/mockup1.png" id="188918" /> 
 </h2>
 
-<h3 align="left">
+<h3 align="center">
  <img src="https://memoriagame.github.io/assets/public/readme/icon3.png" id="188918" /> JOGO DA MEMÓRIA <img src="assets/readme/icon3.png" id="188918" />
 </h3>
 
