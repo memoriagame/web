@@ -6,14 +6,28 @@ require.config({
   }
 });
 
-require(['jsdelivr'], function() {
-  console.log('jsdelivr is loaded.')
-});
 
-require(['githubPages'], function() {
-  console.log('githubPages is loaded.')
-});
-
-require(['githubusercontent'], function() {
-  console.log('githubusercontent is loaded.')
-});
+try {
+  require(['jsdelivr'], function() {
+   console.log('jsdelivr is loaded.')
+  });
+  } catch(error) {
+    // Do something as a fallback. For example: 
+    try {
+      require(['githubPages'], function() {
+        console.log('githubPages is loaded.')
+        });
+        } catch(error) {
+          // Do something as a fallback. For example: 
+         try {
+      require(['githubusercontent'], function() {
+        console.log('githubusercontent is loaded.')
+        });
+        } catch(error) {
+            module = require('./js/main');
+         }
+        }
+      }
+    }    
+  }
+}
