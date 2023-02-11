@@ -1,8 +1,8 @@
 require.config({
   paths: {
-    "jsdelivr": "https://cdn.jsdelivr.net/gh/memoriagame/js/memoriagame/main.js",
-     "githubPages": "https://memoriagame.github.io/js/memoriagame/main.js",
-    "githubusercontent": "https://raw.githubusercontent.com/memoriagame/js/main/memoriagame/main.js"
+    "jsdelivr": "https://cdn.jsdelivr.net/gh/memoriagame/js/memoriagame/main",
+     "githubPages": "https://memoriagame.github.io/js/memoriagame/main",
+    "githubusercontent": "https://raw.githubusercontent.com/memoriagame/js/main/memoriagame/main"
   }
 });
 
