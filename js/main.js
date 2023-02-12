@@ -5,38 +5,30 @@ require.config({
    "githubusercontent": "https://raw.githubusercontent.com/memoriagame/js/main/memoriagame/main"
   }});
 
-try{
+function main(){
+try {
   require(['jsdelivr'], function(){
     console.log('jsdelivr is loaded.')
   });
+} catch (error) {
+  console.error(error);
+  require(['githubPages'], function(){
+    console.log('githubPages is loaded.')
+  });
+ try {
+ require(['githubusercontent'], function(){
+    console.log('githubusercontent is loaded.')
+  });
+} catch (error) {
+  console.error(error);
+ module = require('./js/main');
+  // Expected output: ReferenceError: nonExistentFunction is not defined
+  // (Note: the exact output may be browser-dependent)
 }
-catch (error){
-  try{
-   console.error(error);
-   // Expected output: ReferenceError: nonExistentFunction is not defined
-   // (Note: the exact output may be browser-dependent)
-   require(['githubPages'], function(){
-     console.log('githubPages is loaded.')
-   });
-  }
-  catch (error){
-    console.error(error);
-    try{
-      // Expected output: ReferenceError: nonExistentFunction is not defined
-      // (Note: the exact output may be browser-dependent)
-      require(['githubusercontent'], function(){
-       console.log('githubusercontent is loaded.')
-      });
-     }
-    }
-    catch (error){
-      console.error(error);
-      // Expected output: ReferenceError: nonExistentFunction is not defined
-      // (Note: the exact output may be browser-dependent)
-      module = require('./js/main');
-     }
-    }
-   }
-  }
- }
+
+ 
+  
+  // Expected output: ReferenceError: nonExistentFunction is not defined
+  // (Note: the exact output may be browser-dependent)
+}
 }
