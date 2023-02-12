@@ -5,7 +5,6 @@ require.config({
    "githubusercontent": "https://raw.githubusercontent.com/memoriagame/js/main/memoriagame/main"
   }});
 
-function main(){
 try {
   require(['jsdelivr'], function(){
     console.log('jsdelivr is loaded.')
@@ -30,5 +29,4 @@ try {
   
   // Expected output: ReferenceError: nonExistentFunction is not defined
   // (Note: the exact output may be browser-dependent)
-}
 }
